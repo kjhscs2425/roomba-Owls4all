@@ -18,7 +18,7 @@ window = room.draw_room(level = 5, n_alcoves = n_alcoves)
 
 ###
 # Start your code here
- 
+
  
  
 # End your code here
